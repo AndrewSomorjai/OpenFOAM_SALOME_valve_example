@@ -60,6 +60,7 @@ the polyMesh boundary files need to look like this for patches wall and valve.
 wall
     {
         type            wall;//this will cause an error if it's not wall
+	
         nFaces          0;
         startFace       555107;
     }
@@ -68,6 +69,7 @@ wall
  valve
     {
         type            wall;//this will cause an error if it's not wall
+	
         nFaces          15752;
         startFace       566002;
     }
