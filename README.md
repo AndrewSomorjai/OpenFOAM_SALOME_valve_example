@@ -8,7 +8,8 @@ a very simple case.
 This was tested with an AMD64 processor (32 gigs RAM)
 on Xubuntu 18.04 LTS with OpenFOAM v18.06.
 Make sure you have at least a terabyte of disk space to run
-this because the results are 200 MB per timestep per processor.
+this because the results are about 200 MB per (output) timestep 
+per processor.
 
 Open meshing.hdf (after extracting meshing.hdf.7z.001 with 7zip) 
 in Salome.Export stator mesh as stator.unv into fine_valve/stator
